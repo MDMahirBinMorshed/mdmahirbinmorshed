@@ -1,16 +1,16 @@
-## Hi there 👋
+# Md Mahir
 
-<!--
-**MDMahirBinMorshed/mdmahirbinmorshed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MSc (Data Science) | BSc (Software Engineering)**  
+East West University, Dhaka, Bangladesh
 
-Here are some ideas to get you started:
+I build practical data science and software projects focused on real-world impact — from ML pipelines and data analysis to small APIs and automation. Always learning, always shipping.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Languages:** Python, SQL, JavaScript basics
+- **Data & ML:** Pandas, scikit-learn, TensorFlow (familiar), NLP basics
+- **Tools:** Git, GitHub, Docker (basic), FastAPI, Jupyter / Colab
+- **Other:** Data visualization, model evaluation, REST APIs, unit testing basics
+
+
+📫 Contact: `mdmahirbinmorshed@gmail.com`  
+🔗 Portfolio: https://mdmahirbinmorshed.github.io
