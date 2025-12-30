@@ -3,8 +3,7 @@
 **MSc (Data Science) | BSc (Software Engineering)**  
 East West University, Dhaka, Bangladesh
 
-I build practical data science and software projects focused on real-world impact — from ML pipelines and data analysis to small APIs and automation. Always learning, always shipping.
-
+I build practical data science and software projects focused on real-world impact — from ML pipelines and data analysis to small APIs and automation. Always learning. Always improving. Always building.
 ## Skills
 - **Languages:** Python, SQL, JavaScript basics
 - **Data & ML:** Pandas, scikit-learn, TensorFlow (familiar), NLP basics
